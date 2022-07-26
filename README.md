@@ -1,3 +1,5 @@
+![alt text](https://github.com/Rebeque/LinkedIn-Posts-PDF/blob/main/3%20Banner%20Linkedin%20Data%20Analytics.png?raw=true)
+
 - 👋 Hi, I’m @Rebeque
 - 👀 I’m interested in Data Science, Data Visualization, Python, PowerBI, Machine Learning.
 - 🌱 I’m currently learning Python, Machine Learning.
