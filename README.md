@@ -25,7 +25,7 @@
   👉🏻 No repositório [Python-Analysis](https://github.com/Rebeque/Python-Analysis) você encontra meus trabalhos usando a linguagem Python em Jupyter Notebooks. O foco desses trabalhos é testar meus conhecimentos como analista de dados e cientista de dados; <br>
   👉🏻 Já em [7DaysOfCodeGitHubBR](https://github.com/Rebeque/7DaysOfCodeGitHubBR) você vai encontrar a resposta para um challenge que fiz para a Alura em parceria com a GitHubBR #7DaysOfCode; <br>
   👉🏻 Em [Linkedin-posts-PDF](https://github.com/Rebeque/LinkedIn-Posts-PDF) o que você encontra são arquivos em PDF de informações que levantei, estudos e pesquisas com foco em chamar atenção de Tech Recruiters no LinkedIn; <br>
-  👉🏻 No repositório [Dashboards](futurolink) é onde estão as visualizações mais legais que eu criei até agora usando ferramentas como PowerBI, Tableau, Excel etc.; <br> 
+  👉🏻 No repositório [Dashboards](https://github.com/Rebeque/Dashboards) é onde estão as visualizações mais legais que eu criei até agora usando ferramentas como PowerBI, Tableau, Excel etc.; <br> 
   
 ## Não esqueça de me seguir antes de ir embora ❤ <br><br>
 
