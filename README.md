@@ -2,7 +2,7 @@
 
 ##   👋 Bem vindo! Clique no ícone "▶ Expandir" abaixo para me conhecer.
 
-<details><summary>▶ Expandir</summary>
+<details><summary>|-------------------------------------------------▶ Expandir ---------------------------------------------------------|</summary>
 
 ##   👀 Quem sou eu? | [@github/Rebeque](github.com/Rebeque) | [LinkedIn vrebeque](linkedin.com/in/vrebeque) |<br>
   De Químico para Analista de Dados. Estou reescrevendo minha história profissional por meio de muito trabalho duro e estudo. Prestes a completar minha primeira graduação (Matemática) e realizando diversos cursos profissionalizantes para me tornar um Cientista de Dados. 
