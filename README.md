@@ -3,8 +3,11 @@
 ##   👋 Bem vindo! 
 
 ##   👀 Quem sou eu? | [@github/Rebeque](github.com/Rebeque) | [LinkedIn vrebeque](linkedin.com/in/vrebeque) |<br>
-  De Químico para Analista de Dados. Estou reescrevendo minha história profissional por meio de muito trabalho duro e estudo. Prestes a completar minha primeira graduação (Matemática) e realizando diversos cursos profissionalizantes para me tornar um Cientista de Dados. 
-
+  De Químico para Analista de Dados. Estou reescrevendo minha história profissional por meio de muito trabalho duro e estudo. Prestes a completar minha primeira graduação (Matemática) e realizando diversos cursos profissionalizantes para me tornar um Cientista de Dados. <br>
+  
+##  👨🏻‍💻 Meu último trabalho: <br>
+  👉🏻 <a href="https://github.com/Rebeque/Python-Analysis/blob/main/Pre%C3%A7o%20de%20Casas%20-%20T%C3%A9cnicas%20de%20Regress%C3%A3o%20Avan%C3%A7adas%20-%20Kaggle.ipynb">Análise e Predição de Preços de Casas (Regressão em vários métodos e parâmetros)</a>;<br>
+  
 ##   🛠 Construindo Experiências em: <br>
   Análise Exploratória de Dados; 📊<br>
   Análise Preditiva de Dados; 🔎<br>
