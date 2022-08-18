@@ -1,5 +1,7 @@
 ![alt text](https://github.com/Rebeque/LinkedIn-Posts-PDF/blob/main/3%20Banner%20Linkedin%20Data%20Analytics.png?raw=true)
 
+![](https://komarev.com/ghpvc/?username=Rebeque&color=242424&style=plastic&label=VISITAS)
+
 ##   👋 Bem vindo! 
 
 ##   👀 Quem sou eu? | [@github/Rebeque](github.com/Rebeque) | [LinkedIn vrebeque](linkedin.com/in/vrebeque) |<br>
@@ -36,5 +38,8 @@
  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rebeque&theme=darcula&show_icons=true" alt="Rebeque GitHub Stats" />
  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeque&layout=compact&theme=darcula" alt="Rebeque Languages" />
 </p><br>
+
+![](https://hit.yhype.me/github/profile?user_id=41697963)
+
 
 
