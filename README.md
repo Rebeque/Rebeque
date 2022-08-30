@@ -8,7 +8,7 @@
   De Químico para Analista de Dados. Estou reescrevendo minha história profissional por meio de muito trabalho duro e estudo. Prestes a completar minha primeira graduação (Matemática) e realizando diversos cursos profissionalizantes para me tornar um Cientista de Dados. <br>
   
 ##  👨🏻‍💻 Meu último trabalho: <br>
-  👉🏻 <a href="https://github.com/Rebeque/Python-Analysis/blob/main/Pre%C3%A7o%20de%20Casas%20-%20T%C3%A9cnicas%20de%20Regress%C3%A3o%20Avan%C3%A7adas%20-%20Kaggle.ipynb">Análise e Predição de Preços de Casas (Regressão em vários métodos e parâmetros)</a>;<br>
+  👉🏻 <a href="https://github.com/Rebeque/Titanic---Quem-sobreviveria-ETL-EDA-ML-Deploy-HTML-CSS-">(Em Progresso) Titanic - Quem Sobreviveria? ETL, EDA, ML, Deploy HTML e CSS</a>;<br>
   
 ##   🛠 Construindo Experiências em: <br>
   Análise Exploratória de Dados; 📊<br>
@@ -27,6 +27,7 @@
   data science, data analytics, Python, SQL, big data, cloud, PowerBI, Tableau, Excel, query, machine learning, statistics, business intelligence, dashboards, visualization, storytelling, solve problems, resolução de problemas, algorithm, English.
   
 ##   🗺 Navegando no meu repositório: <br>
+  👉🏻 Veja <a href="https://github.com/Rebeque/Titanic---Quem-sobreviveria-ETL-EDA-ML-Deploy-HTML-CSS-">(Em Progresso) Titanic - Quem Sobreviveria?</a> para descobrir se você sobreviveria ou não a tragédia do Titanic!<br>
   👉🏻 No repositório [Python-Analysis](https://github.com/Rebeque/Python-Analysis) você encontra meus trabalhos usando a linguagem Python em Jupyter Notebooks. O foco desses trabalhos é testar meus conhecimentos como analista de dados e cientista de dados; <br>
   👉🏻 Já em [7DaysOfCodeGitHubBR](https://github.com/Rebeque/7DaysOfCodeGitHubBR) você vai encontrar a resposta para um challenge que fiz para a Alura em parceria com a GitHubBR #7DaysOfCode; <br>
   👉🏻 Em [Linkedin-posts-PDF](https://github.com/Rebeque/LinkedIn-Posts-PDF) o que você encontra são arquivos em PDF de informações que levantei, estudos e pesquisas com foco em chamar atenção de Tech Recruiters no LinkedIn; <br>
